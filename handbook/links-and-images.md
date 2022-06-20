@@ -14,15 +14,15 @@ This section describes the following:
 
 **Correct:**
 
-- For more information, refer to [TechPass Documentation](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed).
+- For more information, refer to [Github Documentation]().
 
-- For more information, refer to [Annex: Sandbox Testing Flow Details](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/#/ship-hats-migration-annex?id=sandbox-testing-flow-details).
+- For more information, refer to [Annex: Github Flow Details]().
 
 **Incorrect:**
 
-- For an introduction to GeBIZ, please click [here](https://www.gebiz.gov.sg/).
+- For an introduction to github, please click [here]().
 
-- Suppliers can search and download these opportunities [here](https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=menu).
+- Developers can search and download these opportunities [here]().
 
 
 ## [Hyperlink](#hyperlink)
@@ -34,7 +34,7 @@ This section describes how to add various links.
 
 | **Use This** | **Do not Use This** | **Notes**|
 |---|---|---|
-|To change or transfer the existing SA role to another user, one of the SAs can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/364) with the required details. | To change or transfer the existing SA role to another user, one of the SAs can raise a <a href="https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/364"> service request </a> with the required details. | This is not a preferred method of adding an inline link because the html tag might not render well in some of the markdown outputs. |
+|To change or transfer the existing role to another user, one of the admins can raise a [github service request]() with the required details. | To change or transfer the existing admin role to another user, one of the admins can raise a <a href=""> github service request </a> with the required details. | This is not a preferred method of adding an inline link because the html tag might not render well in some of the markdown outputs. |
 
 ### Reference Links
 
@@ -46,7 +46,7 @@ This section describes how to add various links.
 ## [Image](#image)
 This section describes
 
-<kbd>![Invite_users_3](images/Invite_users_3.png ':size=100%')</kbd>
+<kbd>![sample](images/sample_image.png ':size=100%')</kbd>
 
 
 ---

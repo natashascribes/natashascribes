@@ -1,4 +1,4 @@
-# markdown-article
+# Markdown project
 This is the first page!
 <!--
 # About readme

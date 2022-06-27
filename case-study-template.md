@@ -10,10 +10,75 @@ Just to be sure that we want to write Case Study and not Whitepaper, please read
   - Results/outcomes
 
 
+This section includes two templates:
+- [Basic](#basic-case-study-template)
+- [Detailed](#detailed-case-study-template)
+
+# Basic case study templates
+
+**Option 1**
+
+## Case Study Title
+Provide the title of the case study. Mention product name within 70 words. 
+
+
+## Introduction
+- Provide one paragraph introduction (100 words). Include success metrics, company name and about the company, why the customer chose you.
+- The Problem
+  - What challenges and objectives led you to look for a solution?
+  - What might have happened if you did not identify a solution?
+  - Did you explore other solutions before this that did not work out? If so, what happened?  
+
+## Approach
+The focus here should be placed on the customer's experience during the onboarding process. Answer the following questions:
+- How long did it take to get up and running?
+- Did that meet your expectations?
+- Who was involved in the process?  
+
+## Results/Impact
+- The Result
+- How is the product or service helping you save time and increase productivity?
+- In what ways does that enhance your competitive advantage?
+- How much have you increased metrics X, Y, and Z?
+## Conclusion
+
+
 ---
+  
+**Option 2**
 
 
-# [Case Study Title] 
+## Case Study Title
+Provide the title of the case study. Mention product name within 70 words. 
+
+
+## Business Context
+- Provide one paragraph introduction (100 words). Include success metrics, company name and about the company, why the customer chose you.
+
+## Challenges
+- The Problem
+- What challenges and objectives led you to look for a solution?
+- What might have happened if you did not identify a solution?
+- Did you explore other solutions before this that did not work out? If so, what happened?  
+## Approach/Engagement
+The focus here should be placed on the customer's experience during the onboarding process. Answer the following questions:
+- How long did it take to get up and running?
+- Did that meet your expectations?
+- Who was involved in the process?  
+## Our Offerings
+
+## Solution Highlights
+- The Solution
+
+## Business Impact
+- The Result
+- How is the product or service helping you save time and increase productivity?
+- In what ways does that enhance your competitive advantage?
+- How much have you increased metrics X, Y, and Z?
+
+# Detailed case study template
+
+## [Case Study Title] 
 
 Provide the title of the case study. Mention product name within 70 words. 
 ## [Introduction or Background] 

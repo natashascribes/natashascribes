@@ -18,7 +18,7 @@ This section includes two templates:
 
 **Option 1**
 
-## Case Study Title
+## [Case Study Title]
 Provide the title of the case study. Mention product name within 70 words. 
 
 
@@ -48,7 +48,7 @@ The focus here should be placed on the customer's experience during the onboardi
 **Option 2**
 
 
-## Case Study Title
+## [Case Study Title]
 Provide the title of the case study. Mention product name within 70 words. 
 
 
@@ -90,7 +90,7 @@ Provide more about customer’s requirements. Try answering the following questi
 - Did you explore other solutions before this that did not work out? If so, what happened?
 ### [Business drivers] 
 Provide business drivers for the customers. 
-### [Challenges/Pain points] 
+## [Challenges/Pain points] 
 - Provide issues faced by customers.  
 - Explain the challenge faced by the customer before using the product.  
 - Why [Customer Name] chose [Product Name].  

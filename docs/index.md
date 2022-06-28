@@ -6,7 +6,6 @@ When not writing technical content, you’ll find me running, working out at gym
 
 |Technical Writer|Information Architect|Customer Experience|Automation|
 |---|---|---|---|
-test|test|test|test
 Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.|Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.|Strategizing and planning to optimize resources to deliver customer experience via documentation portals.|End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
 
@@ -76,3 +75,7 @@ Example
 - [me](me)
 
 [me](me.md ':include')
+
+- [contact us](me)
+- [Handbook](handbook)
+- [Troubleshooting](the-science-of-troubleshooting)

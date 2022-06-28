@@ -3,7 +3,6 @@ I am a technical content strategist and writer, authoring technical guides on en
 
 When not writing technical content, you’ll find me running, working out at gym, writing under the stars, or watching marvel movies with my son. Though I am full time technical writer by profession, I occasionally write about my travel, life, fitness, and my son. Read more about my personal journey here: https://medium.com/natashascribes
 
-**GE Digital** | **Hewlett Packard** | **GovTech** | **Microsoft**
 
 |Technical Writer|Information Architect|Customer Experience|Automation|
 |---|---|---|---|
@@ -11,34 +10,7 @@ Extensive experience in software product and API documentation with proven abili
 
 # TECHNICAL WRITING HANDBOOK
 
-## INTRODUCTION
-
-**WHO IS A TECHNICAL WRITER**
-
-#### Why do you need a technical writer 
-**What does a technical writer do?** 
-Value add by technical writer 
-## Types of guides
-## Fundamentals of technical writing
-
-**Audience analysis** 
-### Types of audience 
-### Audience analysis 
-### Adapt your writing ( to match your audience requirements)
-# Languages
-## MARKDOWN
-## XML
-# Information architecture 
-## API documentation
-## API documentation tools and examples
-## DITA
-## Topic based authoring with flare
-## Madcap flare
-## Content Planning 
-## Content strategy 
-
-
-
+[HANDBOOK](handbook.md ':include')
 
 
 ---

@@ -9,7 +9,40 @@ When not writing technical content, you’ll find me running, working out at gym
 |---|---|---|---|
 Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.|Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.|Strategizing and planning to optimize resources to deliver customer experience via documentation portals.|End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
+# TECHNICAL WRITING HANDBOOK
 
+## INTRODUCTION
+
+## WHO IS A TECHNICAL WRITER
+
+## Why do you need a technical writer 
+## What does a technical writer do. 
+Value add by technical writer 
+## Types of guides
+## Fundamentals of technical writing
+
+## Audience analysis 
+### Types of audience 
+### Audience analysis 
+### Adapt your writing ( to match your audience requirements)
+## Languages
+
+## Information architecture 
+## API documentation
+## API documentation tools and examples
+## DITA
+## Topic based authoring with flare
+## Madcap flare
+## Content Planning 
+## Content strategy 
+
+
+
+
+
+---
+
+# WRITING SAMPLES
 ## TECHNICAL COMMUNICATION BLOG
 Welcome to my **Technical Communication Blog**. Here, I share technical writing advice, opinion pieces, recommendations, and guidelines for writing technical documentation. If you find the technical writing advice posts useful, please leave a comment.
 

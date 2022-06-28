@@ -15,7 +15,7 @@ Extensive experience in software product and API documentation with proven abili
 Welcome to my **Technical Communication Blog**. Here, I share technical writing advice, opinion pieces, recommendations, and guidelines for writing technical documentation. If you find the technical writing advice posts useful, please leave a comment.
 
 
-[What’s so fascinating about structured authoring?]()
+What’s so fascinating about structured authoring?
 
 [Skills Beyond Technical Writing]()
 

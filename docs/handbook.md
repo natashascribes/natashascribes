@@ -1,26 +1,21 @@
 # Handbook
 
-<span style="font-family: 'Lucida Console';">foo this is test font 1</span>
-
-<span style="font-family: 'Consolas';">foo this is test font 2</span>
-
-
 ## Introduction
 
-Who is a technical writer 
-Why do you need a technical writer 
-What does a technical writer do? 
+#### Who is a technical writer 
+#### Why do you need a technical writer 
+#### What does a technical writer do? 
 Value add by technical writer 
-Skills required
-Fundamentals 
-Audience analysis 
-Types of audience 
-Adapt your writing ( to match your audience requirements)
-Style Guide
-Brand Voice
-Style Guide
-Authoring checklist
-Editorial checklist
+#### Skills required
+## Fundamentals 
+#### Audience analysis 
+#### Types of audience 
+#### Adapt your writing ( to match your audience requirements)
+## Style Guide
+#### Brand Voice
+#### Style Guide
+#### Authoring checklist
+#### Editorial checklist
 
 
 ## Doc Types

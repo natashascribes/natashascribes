@@ -68,6 +68,7 @@ Release Notes
 
 Example
 
+## [Handbook](handbook)
 
 - [contact us](https://natashascribes.github.io/natashascribes/me.html)
 - [Handbook](https://natashascribes.github.io/natashascribes/handbook.html)

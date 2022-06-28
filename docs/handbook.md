@@ -75,4 +75,7 @@ API documentation tools and examples
 ## Case Studies
 
 #### The Curious Case of Release Notes
+
+[snippet](the-curious-case-of-release-notes.md ':include')
+
 #### What’s New – Promote the new Product Version

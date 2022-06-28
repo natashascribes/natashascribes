@@ -75,12 +75,12 @@ Release Notes
 -->
 <!--
 <embed src="/handbook/images/your-reusable.md" />
--->
+
 [Snippet Sample 1](handbook/images/your-reusable.md ':include')
 
 [Snippet Sample 2](./handbook/images/your-reusable.md ':include')
 
-<!--
+
 The content reference you'd add to the source would look like {% handbook images.your-reusable-name %}
 
 ===

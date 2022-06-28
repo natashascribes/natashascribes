@@ -11,43 +11,46 @@
 For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
 # Tools
-### Authoring tools
+**Authoring Tools**
 MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office
-### Content Management Systems
+**Content Management Systems**
 Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server
-### Defect and Task Management
+**Defect and Task Management**
 JIRA, Rally, HP ALM
-### Images
+**Images**
 TechSmith Snagit
 
 # Skills
-### Technical Writer
-Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.
-### Information Architect
-Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.
-### Content Strategist
-Strategizing and planning to optimize resources to deliver customer experience via documentation portals.
-### Automation
-End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
+**Technical Writer**  
+Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.  
+**Information Architect**  
+Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.  
+**Content Strategist**  
+Strategizing and planning to optimize resources to deliver customer experience via documentation portals.  
+**Automation**  
+End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.  
 
 # Document Types
-### Technical Docs
+
+**Technical Docs**
 - Release Notes
 - API Documents
 - Online help
 - Context-sensitive Help
 - User Guide
-### Developer Docs
+
+**Developer Docs**
 - Administrators Guide
 - Troubleshooting Guide
 - Quick Start Guide
 - Technote
 - Whitepaper
-### Generic
+
+**Generic Docs**
 - Case Studies
 - Knowledge Base Articles
 - Process Documents
 - Style Guide
 - Blogs
 
-# [Handbook](handbook)
+# [TechWriting Handbook](handbook)

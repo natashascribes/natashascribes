@@ -73,8 +73,9 @@ Release Notes
 <!--
 {% handbook.images.your-reusable-name %}
 -->
+<!--
 <embed src="/handbook/images/your-reusable.md" />
-
+-->
 [Snippet Sample 1](handbook/images/your-reusable.md ':include')
 
 [Snippet Sample 2](./handbook/images/your-reusable.md ':include')

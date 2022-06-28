@@ -3,7 +3,7 @@ I am a technical content strategist and writer, authoring technical guides on en
 
 When not writing technical content, you’ll find me running, working out at gym, writing under the stars, or watching marvel movies with my son. Though I am full time technical writer by profession, I occasionally write about my travel, life, fitness, and my son. Read more about my personal journey here: https://medium.com/natashascribes
 
-**GE Digital | Hewlett Packard | GovTech | Microsoft**
+**GE Digital** | **Hewlett Packard** | **GovTech** | **Microsoft**
 
 |Technical Writer|Information Architect|Customer Experience|Automation|
 |---|---|---|---|

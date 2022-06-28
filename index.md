@@ -69,4 +69,4 @@ Example
 
 Release Notes
 
-[contact us](https://natashascribes.github.io/natashascribes/about/contact-us.html)
+- [contact us](https://natashascribes.github.io/natashascribes/about/contact-us.html)

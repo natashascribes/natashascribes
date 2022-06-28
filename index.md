@@ -9,15 +9,9 @@ When not writing technical content, you’ll find me running, working out at gym
 test|test|test|test
 Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.|Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.|Strategizing and planning to optimize resources to deliver customer experience via documentation portals.|End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
-# TECHNICAL WRITING HANDBOOK
-
-[HANDBOOK](handbook.md ':include')
 
 
----
-
-# WRITING SAMPLES
-## TECHNICAL COMMUNICATION BLOG
+# Technical Blog
 Welcome to my **Technical Communication Blog**. Here, I share technical writing advice, opinion pieces, recommendations, and guidelines for writing technical documentation. If you find the technical writing advice posts useful, please leave a comment.
 
 
@@ -42,7 +36,7 @@ Writing Awesome Release Notes!
 <!--## CREATIVE BLOGS-->
 
 
-## CASE STUDIES
+# Case Studies
 
 
 The Curious Case of Release Notes
@@ -53,7 +47,7 @@ System Requirements
 
 Troubleshooting Content
 
-## TECHNICAL WRITING SAMPLES
+# Writing Samples
 
 Most of my writing initiatives are available on [GE Digital documentation portal](). Read on to look at the specific topic types. Towards the right, I have provided list of topics that I have written to share my learnings based on my experience in the technical writing world!
 

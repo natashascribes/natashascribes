@@ -1,82 +1,49 @@
 # BEING NATASHA
-I am a technical content strategist and writer, authoring technical guides on enterprise products. Working alongside developers, designers, product managers, I support and guide the writing team to ensure that product is complemented with engaging web-based technical content of the highest quality.  
+**[Technical Writer](#technical-writer)** | **[Content Strategist](#content-strategist)** | **[Information Architect](#information-architect)** | **[Productivity](#automation)**                  
 
-When not writing technical content, you’ll find me running, working out at gym, writing under the stars, or watching marvel movies with my son. Though I am full time technical writer by profession, I occasionally write about my travel, life, fitness, and my son. Read more about my personal journey here: https://medium.com/natashascribes
+15+ years of extensive experience in developing high quality technical and process documentation, with 8 years of leadership experience in building high-performing global content teams across businesses. I am skilled at
 
+- Scoping and creating technical content,
+- Designing information architecture strategies,
+- Leading documentation projects, and
+- Leading technical writing teams.
 
-|Technical Writer|Information Architect|Customer Experience|Automation|
-|---|---|---|---|
-Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.|Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.|Strategizing and planning to optimize resources to deliver customer experience via documentation portals.|End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
+For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
+## Tools
+### Authoring tools
+MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office
+### Content Management Systems
+Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server
+### Defect and daily task management tools
+JIRA, Rally, HP ALM
+### Images
+TechSmith Snagit
 
+## Skills
+### Technical Writer
+Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.
+### Information Architect
+Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.
+### Content Strategist
+Strategizing and planning to optimize resources to deliver customer experience via documentation portals.
+### Automation
+End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
-# Technical Blog
-Welcome to my **Technical Communication Blog**. Here, I share technical writing advice, opinion pieces, recommendations, and guidelines for writing technical documentation. If you find the technical writing advice posts useful, please leave a comment.
+## Document Types
+- Release Notes
+- API Documents
+- Online help
+- Context-sensitive Help
+- User Guide
+- Administrators Guide
+- Troubleshooting Guide
+- Quick Start Guide
+- Technote
+- Whitepaper
+- Case Studies
+- Knowledge Base Articles
+- Process Documents
+- Style Guide
 
-
-What’s so fascinating about structured authoring?
-
-[Skills Beyond Technical Writing]()
-
-What does Online Help mean?
-
-The Science of Troubleshooting
-
-Why topic-based authoring is important for technical writers?
-
-The Art of API Documentation
-
-Knowledge Base Articles
-
-Writing Awesome Release Notes!
-
-
-
-<!--## CREATIVE BLOGS-->
-
-
-# Case Studies
-
-
-The Curious Case of Release Notes
-
-What’s New – Promote the new Product Version
-
-System Requirements
-
-Troubleshooting Content
-
-# Writing Samples
-
-Most of my writing initiatives are available on [GE Digital documentation portal](). Read on to look at the specific topic types. Towards the right, I have provided list of topics that I have written to share my learnings based on my experience in the technical writing world!
-
-API Documentation
-
-Installation Guide
-
-System Requirements
-
-Workflow
-
-Family Field Description
-
-First-time Deployment
-
-Upgrade
-
-Release Notes
-
-Example
-
-## [Handbook](handbook)
-
-- [contact us](https://natashascribes.github.io/natashascribes/me.html)
-- [Handbook](https://natashascribes.github.io/natashascribes/handbook.html)
-- [Troubleshooting](https://natashascribes.github.io/natashascribes/the-science-of-troubleshooting.html)
-- [me](me)
-
-[me](me.md ':include')
-
-- [contact us](me)
-- [Handbook](handbook)
-- [Troubleshooting](the-science-of-troubleshooting)
+# [Handbook](handbook)

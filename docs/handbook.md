@@ -80,9 +80,6 @@ API documentation tools and examples
 
 #### [The Curious Case of Release Notes](the-curious-case-of-release-notes)
 
-**[The Curious Case of Release Notes](the-curious-case-of-release-notes)**
-
-
 Release Notes are the most popular form of documentation for any release. While the users wait for this document to be made available, writers are as anxious to provide a high-quality content for this highly visible and awaited document. 
 
 **Challenge**
@@ -121,11 +118,7 @@ With this approach:
 
     ![Example](./images/curious-case-of-release-notes.png)
 
-#### What’s New – Promote the new Product Version
-
-#### [**What’s New – Promote the new Product Version**](what-s-new-promote-the-new-product-version)
-
-**[What’s New – Promote the new Product Version](what-s-new-promote-the-new-product-version)**
+#### [What’s New – Promote the new Product Version](what-s-new-promote-the-new-product-version)
 
 What’s New section is included in release notes or might take a form of of its own. In either case, this section is used to communicate new features and bug fixes to the customers. Let us look at how What's New was able to support product managers and guide customers. 
 

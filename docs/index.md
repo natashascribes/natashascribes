@@ -31,19 +31,23 @@ Strategizing and planning to optimize resources to deliver customer experience v
 End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
 # Document Types
+### Technical Docs
 - Release Notes
 - API Documents
 - Online help
 - Context-sensitive Help
 - User Guide
+### Developer Docs
 - Administrators Guide
 - Troubleshooting Guide
 - Quick Start Guide
 - Technote
 - Whitepaper
+### Generic
 - Case Studies
 - Knowledge Base Articles
 - Process Documents
 - Style Guide
+- Blogs
 
 # [Handbook](handbook)

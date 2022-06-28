@@ -1,5 +1,9 @@
 # Handbook
 
+<span style="font-family: 'Lucida Console';">foo this is test font 1</span>
+
+<span style="font-family: 'Consolas';">foo this is test font 2</span>
+
 
 ## Introduction
 

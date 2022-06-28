@@ -70,4 +70,6 @@ Release Notes
 Example
 
 
-- [contact us](https://natashascribes.github.io/natashascribes/docs/contact-us.html)
+- [contact us](https://natashascribes.github.io/natashascribes/docs/me.html)
+- [Handbook](https://natashascribes.github.io/natashascribes/handbook.html)
+- [Troubleshooting](https://natashascribes.github.io/natashascribes/the-science-of-troubleshooting.html)

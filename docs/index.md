@@ -10,17 +10,17 @@
 
 For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
-## Tools
+# Tools
 ### Authoring tools
 MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office
 ### Content Management Systems
 Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server
-### Defect and daily task management tools
+### Defect and Task Management
 JIRA, Rally, HP ALM
 ### Images
 TechSmith Snagit
 
-## Skills
+# Skills
 ### Technical Writer
 Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.
 ### Information Architect
@@ -30,7 +30,7 @@ Strategizing and planning to optimize resources to deliver customer experience v
 ### Automation
 End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.
 
-## Document Types
+# Document Types
 - Release Notes
 - API Documents
 - Online help

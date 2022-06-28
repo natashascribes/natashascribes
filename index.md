@@ -13,21 +13,22 @@ Extensive experience in software product and API documentation with proven abili
 
 ## INTRODUCTION
 
-## WHO IS A TECHNICAL WRITER
+**WHO IS A TECHNICAL WRITER**
 
-## Why do you need a technical writer 
-## What does a technical writer do. 
+#### Why do you need a technical writer 
+**What does a technical writer do?** 
 Value add by technical writer 
 ## Types of guides
 ## Fundamentals of technical writing
 
-## Audience analysis 
+**Audience analysis** 
 ### Types of audience 
 ### Audience analysis 
 ### Adapt your writing ( to match your audience requirements)
-## Languages
-
-## Information architecture 
+# Languages
+## MARKDOWN
+## XML
+# Information architecture 
 ## API documentation
 ## API documentation tools and examples
 ## DITA

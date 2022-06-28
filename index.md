@@ -1,9 +1,14 @@
-# About readme
+# BEING NATASHA
 hey, it's me!!!
 
-## Testing H2
-this is an h2
-## testing h2
-really, that's all you could think of?
-### testing h3
-yupp, am that person!
+## BLOGS
+THESE ARE MY BLOGS
+
+### TECHNICAL BLOGS
+DEEP DIVE INTO THE TECHNICAL WRITING WORLD
+
+### CREATIVE BLOGS
+SEE MY OTHER LIFE
+
+## CASE STUDIES
+WHAT CAN DO IF YOU ALLOW ME

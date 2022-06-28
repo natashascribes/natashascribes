@@ -15,12 +15,19 @@ Welcome to my **Technical Communication Blog**. Here, I share technical writing 
 
 
 [What’s so fascinating about structured authoring?]()
+
 [Skills Beyond Technical Writing]()
+
 What does Online Help mean?
+
 The Science of Troubleshooting
+
 Why topic-based authoring is important for technical writers?
+
 The Art of API Documentation
+
 Knowledge Base Articles
+
 Writing Awesome Release Notes!
 
 

@@ -65,8 +65,10 @@ First-time Deployment
 
 Upgrade
 
-Example
-
 Release Notes
 
-- [contact us](https://natashascribes.github.io/natashascribes/about/contact-us.html)
+Example
+
+
+<!--- [contact us](https://natashascribes.github.io/natashascribes/about/contact-us.html)
+-->

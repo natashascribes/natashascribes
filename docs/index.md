@@ -70,6 +70,9 @@ Release Notes
 Example
 
 
-- [contact us](https://natashascribes.github.io/natashascribes/docs/me.html)
+- [contact us](https://natashascribes.github.io/natashascribes/me.html)
 - [Handbook](https://natashascribes.github.io/natashascribes/handbook.html)
 - [Troubleshooting](https://natashascribes.github.io/natashascribes/the-science-of-troubleshooting.html)
+- [me](me)
+
+[me](me.md ':include')

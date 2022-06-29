@@ -1,27 +1,7 @@
 # Technical Writing Handbook
 
-## Introduction
-
-#### Who is a technical writer 
-#### Why do you need a technical writer 
-#### What does a technical writer do? 
-Value add by technical writer 
-#### Skills required
-
-## Fundamentals 
-
-#### Audience analysis 
-#### Types of audience 
-#### Adapt your writing ( to match your audience requirements)
-
-## Style Guide
-#### Brand Voice
-#### Style Guide
-#### Authoring checklist
-#### Editorial checklist
-
-
-## Doc Types
+# Doc Types
+Technical writers are responsible for producing a variety of technical documents. Few of them are listed here:
 
 #### Release  Notes
 Writing Awesome Release Notes!  
@@ -30,33 +10,39 @@ What’s New – Promote the new Product Version
 #### API Reference
 The Art of API Documentation
 #### User Guide
+
 #### Online Help 
 What does Online Help mean?
 #### Installation Guide
+
 #### Upgrade Guide
+
 #### System Requirements
 System Requirements
 #### Troubleshooting Guide
 The Science of Troubleshooting
 Troubleshooting Content
 #### Knowledge Base Articles
+
 #### Reference Guide
+
 #### Administrator Guide
-## Languages 
+
+# Languages 
+
 #### XML 
+
 #### Markdown
 Markdown to docx
 
 
-## API documentation
+# API documentation
 
 API documentation tools and examples
-## DITA
-#### Concept 
-#### Task
-#### Reference
+
 #### Why topic-based authoring is important for technical writers?
-## Concepts
+
+# Concepts
 #### Good docs vs bad docs (what makes a doc good/what to avoid)
 #### Content Planning 
 #### Content strategy 
@@ -72,7 +58,7 @@ API documentation tools and examples
 #### Topic based authoring with flare
 #### Oxygen
 
-## Case Studies
+# Case Studies
 
 - [The Curious Case of Release Notes](the-curious-case-of-release-notes)
 - [What’s New – Promote the new Product Version](what-s-new-promote-the-new-product-version)

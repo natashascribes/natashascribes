@@ -22,14 +22,3 @@ Describe what is causing the problem. It might sound like we are exposing our fa
 Provide the steps required to fix the problem. Do not hesitate in including details or reference to details help topics for additional context. If there are multiple workarounds, include them. You may use phrase such as, “Consider the following possible solutions” to get started with multiple options for users. This is the goal for all the troubleshooting content – to help the users resolve the issues on their own.
 
 Troubleshooting content should be an integral part of any help system. It makes the users more independent, reduces support cost for users and support calls for product owners, and provides a better experience to all involved with the product.
-
-
-
-## Additional resources
-
-- [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
-
-
-- [The Science of Troubleshooting](https://natashascribesnm.wordpress.com/2021/08/12/the-science-of-troubleshooting/)
-
->**Note:** This is an example of note.

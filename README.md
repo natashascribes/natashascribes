@@ -26,10 +26,13 @@ For the last 2 years, I have been working with software and API development team
 # Skills
 **Technical Writer**  
 - Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.  
+
 **Information Architect**  
 - Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.  
+
 **Content Strategist**  
 - Strategizing and planning to optimize resources to deliver customer experience via documentation portals.  
+
 **Automation**  
 - End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.  
 

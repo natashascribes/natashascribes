@@ -1,82 +1,54 @@
-# Markdown project
-This is the first page!
+# BEING NATASHA
+**[Technical Writer](#technical-writer)** | **[Content Strategist](#content-strategist)** | **[Information Architect](#information-architect)** | **[Productivity](#automation)**                  
 
-This is the first page!
+15+ years of extensive experience in developing high quality technical and process documentation, with 8 years of leadership experience in building high-performing global content teams across businesses. I am skilled at
 
-This is the first page!
+- Scoping and creating technical content,
+- Designing information architecture strategies,
+- Leading documentation projects, and
+- Leading technical writing teams.
 
-<!--
-# About readme
-hey, it's me!!!
+For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
-## Testing H2
-this is an h2
-## testing h2
-really, that's all you could think of?
-### testing h3
-yupp, am that person!
--->
+# Tools
+**Authoring Tools**
+MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office
+**Content Management Systems**
+Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server
+**Defect and Task Management**
+JIRA, Rally, HP ALM
+**Images**
+TechSmith Snagit
 
+# Skills
+**Technical Writer**  
+Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.  
+**Information Architect**  
+Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation.  
+**Content Strategist**  
+Strategizing and planning to optimize resources to deliver customer experience via documentation portals.  
+**Automation**  
+End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.  
 
+# Document Types
 
-<!--
-- **OVERVIEW**
-  - [Introduction](introduction)
-  - [Who is a technical writer](technical-writer)
-  - [Why a technical writer](need-technical-writer)
-- **AUTHORING RESOURCES**
-  - [Authoring Tools](authoring-tools)
-  - [Authoring Checklist](authoring-checklist)
-  - [Editorial Checklist](editorial-checklist)
-  - [Style Guide](style-guide)
-  - [Doc Reviews](doc-reviews)
-  - [Publishing](publishing)
-- **MARKDOWN RESOURCES**
-  - [Notes Tips Important](notes-tips-important)
-  - [Lists](lists)
-  - [Links and Images](links-and-images)
-  - [Tables](tables)
-  - [FAQs](faqs)
-  - [Embed a video](embed-a-video)
--->
+**Technical Docs**
+- Release Notes
+- API Documents
+- Online help
+- Context-sensitive Help
+- User Guide
 
-<!-- 
+**Developer Docs**
+- Administrators Guide
+- Troubleshooting Guide
+- Quick Start Guide
+- Technote
+- Whitepaper
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/natashascribes/natashascribes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natashascribes/natashascribes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
--->
+**Generic Docs**
+- Case Studies
+- Knowledge Base Articles
+- Process Documents
+- Style Guide
+- Blogs

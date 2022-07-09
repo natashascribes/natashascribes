@@ -13,10 +13,13 @@ For the last 2 years, I have been working with software and API development team
 # Tools
 **Authoring Tools**  
 - MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office  
+
 **Content Management Systems**
 - Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server
+
 **Defect and Task Management**  
 - JIRA, Rally, HP ALM
+
 **Images**  
 - TechSmith Snagit
 

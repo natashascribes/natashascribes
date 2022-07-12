@@ -8,7 +8,9 @@ As a technical writer, you need to understand the product and the user for whom 
 >*If you can’t explain it to a six year old, you don’t understand it yourself.
 Albert Einstein*
 
-### Fundamentals
+---
+
+## Fundamentals
 
 Some of the fundamentals for being a good technical writer are:
 
@@ -31,6 +33,8 @@ You are writing to help users understand the product and not showcase your vocab
 **Learn the product**
 
 Use the product to understand what it does and how it works. If you do not understand the product, you will most likely just write what the developer is saying. If the developer were able to explain the product, why would we need writers to break it down into simple language? The developers are technical experts and know what they are talking about but our users might not have the same technical skills or be well-versed with the technical language that the developers use. Therefore, learn the product to use, and then write about it.
+
+---
 
 ## Why do you need a technial writer?
 
@@ -60,6 +64,8 @@ A technical writer always writes based on how the customer will experience the p
 
 To summarize, technical writers help build a strong foundation of the product team by asking questions that your customer might ask later. So, it is a wise investment to invest in a technical writer for the detailed eye and a customer advocate built into your team.
 
+---
+
 <!--### [Skills required](skills-required)-->
 
 ## Skills Beyond Technical Writing
@@ -88,6 +94,7 @@ You need to know who you are writing for. Knowing how the customer would use the
 
 To be an effective and productive technical writer, you need to cultivate additional skills that may or may not be included in the job description but are essential part of your job. These skills need to be developed to be efficient at your job as well as grow in your field.
 
+---
 
 ## Doc Types
 Technical writers are responsible for producing a variety of technical documents. Few of them are listed here:
@@ -104,13 +111,15 @@ Technical writers are responsible for producing a variety of technical documents
 - Reference Guide - coming soon!
 - Administrator Guide - coming soon!
 
+---
+
 ## Concepts
 
 - [Structured authoring](structured-authoring)
 - [Why topic-based authoring is important for technical writers?](topic-based-authoring)
 - [Skills beyond technical writing](skills-beyond-technical-writing)
 
-
+---
 
 ## Case Studies
 

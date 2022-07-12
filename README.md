@@ -10,7 +10,12 @@
 
 For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
->Do check out my **[TechWriting Handbook here](https://natashascribes.github.io/natashascribes/handbook).** It's work in progress but shares my thought process.
+# Writing samples
+
+|Technical Writing|Technical Blog|Lifestyle Blog|TechWriting Handbook|
+|---|---|---|---|
+|[GE Website](https://natashascribesnm.wordpress.com/writing-samples)|[Wordpress](https://natashascribesnm.wordpress.com/technical-communication-blog/)|[Medium]()|[GitHub](https://natashascribes.github.io/natashascribes/handbook) (This is work in progress but shares my thought process.)|
+
 
 # Tools
 
@@ -78,8 +83,3 @@ For the last 2 years, I have been working with software and API development team
 - Blogs
 -->
 
-# Writing samples
-
-|Technical Writing|Technical Blog|Lifestyle Blog|
-|---|---|---|
-|[GE Website](https://natashascribesnm.wordpress.com/writing-samples)|[Wordpress](https://natashascribesnm.wordpress.com/technical-communication-blog/)|[Medium]()|

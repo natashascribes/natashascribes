@@ -1,54 +1,61 @@
 # Technical Writing Handbook
-
+## [Being a technical writer](being-technial-writer)  
+## [Why do you need a techincal writer](need-for-technical-writer)
+## []()
+## [Skills beyond technical writing](skills-beyond-technical-writing)
 # Doc Types
 Technical writers are responsible for producing a variety of technical documents. Few of them are listed here:
 
 #### Release  Notes
-Writing Awesome Release Notes!  
-The Curious Case of Release Notes  
-What’s New – Promote the new Product Version
+- [Release Notes](the-curious-case-of-release-notes)  
+
 #### API Reference
-The Art of API Documentation
+- [API Documentation](art-of-api-documentation)
 #### User Guide
 
 #### Online Help 
-What does Online Help mean?
+- [Online Help](online-help)
 #### Installation Guide
 
 #### Upgrade Guide
 
 #### System Requirements
-System Requirements
+- [System Requirements](system-requirements-two-birds-with-one-stone)
 #### Troubleshooting Guide
-The Science of Troubleshooting
-Troubleshooting Content
+- [The Science of Troubleshooting](the-science-of-troubleshooting)
 #### Knowledge Base Articles
-
+- [Knowledge Base Articles](knowledge-base-articles)
 #### Reference Guide
-
+- Coming Soon!
 #### Administrator Guide
-
+- Coming Soon!
+<!--
 # Languages 
 
 #### XML 
 
 #### Markdown
-
-
+-->
+<!--
 # API documentation
 
 API documentation tools and examples
-
+-->
 #### Why topic-based authoring is important for technical writers?
+- 
 
 # Concepts
+<!--
 #### Good docs vs bad docs (what makes a doc good/what to avoid)
 #### Content Planning 
 #### Content strategy 
 #### Information architecture 
-#### Context, Content, User
-#### Structured authoring
+#### Context, Content, User-->
+#### Structured authoring 
+- [Structured authoring](structured-authoring)
 #### Skills Beyond Technical Writing
+- [Skills beyond technical writing](skills-beyond-technical-writing)
+<!--
 #### Minimalism
 #### Every page is page one
 #### Simple and Concise
@@ -56,7 +63,7 @@ API documentation tools and examples
 #### Madcap flare
 #### Topic based authoring with flare
 #### Oxygen
-
+-->
 # Case Studies
 
 - [The Curious Case of Release Notes](the-curious-case-of-release-notes)

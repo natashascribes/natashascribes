@@ -61,8 +61,10 @@ API documentation tools and examples
 
 - [The Curious Case of Release Notes](the-curious-case-of-release-notes)
 - [What’s New – Promote the new Product Version](what-s-new-promote-the-new-product-version)
+- [System Requirements – Two birds with one stone](system-requirements-two-birds-with-one-stone)
+- [Troubleshooting your worries away](troubleshooting-your-worries-away)
 
-
+<!--
 #### [The Curious Case of Release Notes](the-curious-case-of-release-notes)
 
 Release Notes are the most popular form of documentation for any release. While the users wait for this document to be made available, writers are as anxious to provide a high-quality content for this highly visible and awaited document. 
@@ -161,3 +163,4 @@ Product Managers were able to use the What to Expect section to convey the upcom
 **Example** 
 
 - [Click here to view an example](ge.com/digital/documentation/predix-apm/latest/release-notes/whats-new.html)
+-->

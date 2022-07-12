@@ -10,7 +10,7 @@
 
 For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
-**[Check my TechWriting Handbook here](https://natashascribes.github.io/natashascribes/handbook).**
+>Do check out my **[TechWriting Handbook here](https://natashascribes.github.io/natashascribes/handbook).** It's work in progress but shares my thought process.
 
 # Tools
 **Authoring Tools**  

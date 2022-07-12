@@ -10,6 +10,8 @@
 
 For the last 2 years, I have been working with software and API development teams, creating developer focused content in using Markdown in GitHub and API documentation in Postman, and other content for developer portals.
 
+**[Check my TechWriting Handbook here](https://natashascribes.github.io/natashascribes/handbook).**
+
 # Tools
 **Authoring Tools**  
 - MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office  

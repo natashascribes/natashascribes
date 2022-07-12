@@ -13,6 +13,11 @@ For the last 2 years, I have been working with software and API development team
 >Do check out my **[TechWriting Handbook here](https://natashascribes.github.io/natashascribes/handbook).** It's work in progress but shares my thought process.
 
 # Tools
+
+|Authoring Tools|Content Management Systems|Defect and Task Management|Images|
+|---|---|---|---|
+|MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office|Tortoise SVN, Astoria, GitHub, Visual Studio Team Foundation Server|JIRA, Rally, HP ALM|TechSmith Snagit, Visio, Draw.io, Miro|
+<!--
 **Authoring Tools**  
 - MadCap Flare, Oxygen XML editor, Postman, Visual Studio Code, Confluence, Adobe FrameMaker, Microsoft Office  
 
@@ -24,8 +29,15 @@ For the last 2 years, I have been working with software and API development team
 
 **Images**  
 - TechSmith Snagit
+-->
 
 # Skills
+
+|Technical Writer|Information Architect|Content Strategist|Automation|
+|---|---|---|---|
+|Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.|Expert in content planning and designing documentation from scratch for a variety of documents to enable your customers to navigate easily within the documentation. |Strategizing and planning to optimize resources to deliver customer experience via documentation portals.|End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.|  
+
+<!--
 **Technical Writer**  
 - Extensive experience in software product and API documentation with proven abilities to document content on high visibility technical projects.  
 
@@ -37,9 +49,13 @@ For the last 2 years, I have been working with software and API development team
 
 **Automation**  
 - End-to-end automation from CCMS to Documentation portal to reduce content creation to delivery time and allow writers to focus on developing content.  
-
+-->
 # Document Types
 
+|Technical Docs|Developer Docs|Generic Docs|
+|---|---|---|
+|Release Notes <br> API Documents <br> Online help <br>Context-sensitive Help <br> User Guide|Administrators Guide<br>Troubleshooting Guide<br>Quick Start Guide<br>Technote<br>Whitepaper|Case Studies<br>Knowledge Base Articles<br>Process Documents<br>Style Guide<br>Blogs
+<!--
 **Technical Docs**
 - Release Notes
 - API Documents
@@ -60,3 +76,10 @@ For the last 2 years, I have been working with software and API development team
 - Process Documents
 - Style Guide
 - Blogs
+-->
+
+# Writing samples
+
+|Technical Writing|Technical Blog|Lifestyle Blog|
+|---|---|---|
+|[GE Website](https://natashascribesnm.wordpress.com/writing-samples)|[Wordpress](https://natashascribesnm.wordpress.com/technical-communication-blog/)|[Medium]()|

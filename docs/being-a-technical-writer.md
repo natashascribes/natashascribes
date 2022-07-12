@@ -2,7 +2,7 @@
 
 As a technical writer, you are responsible for providing detailed instructions and conceptual information on a specific product. You will help the user understand what the product is, why you need the product or what problems the product can resolve for you, and how the product works.
 
-As a technical writer, you need to understand the product and the user for whom you are writing. This means that you do not have to keep learning new products but understand each feature that you are documenting while considering how your user will use the information. Since you need to write about the technical product in simple and straightforward terms, you must be well-versed with the product. 
+As a technical writer, you need to understand the product and the user for whom you are writing. This means that you not only have to keep learning new products but also understand each feature that you are documenting while considering how your user will use the information. Since you need to write about the technical product in simple and straightforward terms, you must be well-versed with the product. 
 
 >*If you can’t explain it to a six year old, you don’t understand it yourself.
 Albert Einstein*

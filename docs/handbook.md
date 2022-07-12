@@ -1,48 +1,41 @@
 # Technical Writing Handbook
-## [Being a technical writer](being-technial-writer)  
-## [Why do you need a techincal writer](need-for-technical-writer)
-## []()
-## [Skills beyond technical writing](skills-beyond-technical-writing)
+### [Being a technical writer](being-technial-writer)  
+### [Why do you need a techincal writer](need-for-technical-writer)
+### [Skills beyond technical writing](skills-beyond-technical-writing)
 # Doc Types
 Technical writers are responsible for producing a variety of technical documents. Few of them are listed here:
 
-#### Release  Notes
-- [Release Notes](the-curious-case-of-release-notes)  
+#### [Release Notes](the-curious-case-of-release-notes)  
 
-#### API Reference
-- [API Documentation](art-of-api-documentation)
+#### [API Documentation](art-of-api-documentation)
 #### User Guide
 
-#### Online Help 
-- [Online Help](online-help)
+#### [Online Help](online-help)
 #### Installation Guide
 
 #### Upgrade Guide
 
-#### System Requirements
-- [System Requirements](system-requirements-two-birds-with-one-stone)
-#### Troubleshooting Guide
-- [The Science of Troubleshooting](the-science-of-troubleshooting)
-#### Knowledge Base Articles
-- [Knowledge Base Articles](knowledge-base-articles)
+#### [System Requirements](system-requirements-two-birds-with-one-stone)
+#### [The Science of Troubleshooting](the-science-of-troubleshooting)
+#### [Knowledge Base Articles](knowledge-base-articles)
 #### Reference Guide
 - Coming Soon!
 #### Administrator Guide
 - Coming Soon!
+
 <!--
 # Languages 
 
 #### XML 
 
 #### Markdown
--->
-<!--
+
 # API documentation
 
 API documentation tools and examples
 -->
-#### Why topic-based authoring is important for technical writers?
-- 
+#### [Why topic-based authoring is important for technical writers?]()
+
 
 # Concepts
 <!--
@@ -51,10 +44,8 @@ API documentation tools and examples
 #### Content strategy 
 #### Information architecture 
 #### Context, Content, User-->
-#### Structured authoring 
-- [Structured authoring](structured-authoring)
-#### Skills Beyond Technical Writing
-- [Skills beyond technical writing](skills-beyond-technical-writing)
+#### [Structured authoring](structured-authoring)
+#### [Skills beyond technical writing](skills-beyond-technical-writing)
 <!--
 #### Minimalism
 #### Every page is page one
@@ -64,6 +55,7 @@ API documentation tools and examples
 #### Topic based authoring with flare
 #### Oxygen
 -->
+
 # Case Studies
 
 - [The Curious Case of Release Notes](the-curious-case-of-release-notes)

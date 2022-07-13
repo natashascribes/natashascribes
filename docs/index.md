@@ -36,7 +36,7 @@ Use the product to understand what it does and how it works. If you do not under
 
 ---
 
-## Why do you need a technial writer?
+## Why do you need a technical writer?
 
 Most of the organizations start with developing a product. When they try to release their product in the market, they realize that customers are looking for documentation supporting their product. What happens next is that developers who built the product are asked to write about it. However, since the developers are technical people and not professional communicators or writers, the document that we get from them is also technical and probably full of developer terms. A technical document with jargons or internal terms, may or may not help the customers. That’s where the technical writers are introduced. There are organizations, however, who realize this requirement much sooner than the release stage and engage with the writer as soon as the development kicks off.
 

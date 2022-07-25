@@ -14,6 +14,9 @@ This section describes the following:
 
 ---
 
+> [!FAQ]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden until it is expanded.
+
 ## Note
 
 ### A simple note

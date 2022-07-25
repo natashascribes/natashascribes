@@ -17,6 +17,13 @@ This section describes the following:
 > [!FAQ]- Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden until it is expanded.
 
+> [!TIP] Callouts can have custom titles, which also supports **markdown**!
+
+> [!INFO]
+> Here's a callout block.
+
+
+
 ## Note
 
 ### A simple note
